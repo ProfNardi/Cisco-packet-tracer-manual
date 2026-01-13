@@ -89,7 +89,7 @@ Configurazione di una rete LAN semplice con uno switch e tre PC. Ideale per comp
 #### [Scenario 2 – Due reti LAN collegate da router (Forwarding)](./scenario/scenario2.it.md)
 Configurazione di due reti LAN separate collegate tramite un router. Introduce i concetti di gateway, routing tra reti e forwarding dei pacchetti.
 
-#### [Scenario 3 – Tre reti LAN con routing statico (Ring)](./scenario/scenario3.it.md)
+#### [Scenario 3 – Tre reti LAN PRIVATE con routing statico (Ring)](./scenario/scenario3.it.md)
 Architettura avanzata con tre router collegati ad anello. Introduce i protocolli di routing statico e la ridondanza dei percorsi.
 
 

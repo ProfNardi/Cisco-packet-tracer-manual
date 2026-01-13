@@ -89,5 +89,5 @@ Configuration of a simple LAN with one switch and three PCs. Ideal for understan
 #### [Scenario 2 – Two LANs connected by a router (Forwarding)](./scenario/scenario2.md)
 Configuration of two separate LANs connected via a router. Introduces gateway concepts, inter-network routing, and packet forwarding.
 
-#### [Scenario 3 – Three LANs with static routing (Ring)](./scenario/scenario3.md)
+#### [Scenario 3 – Three PRIVATE LANs with static routing (Ring)](./scenario/scenario3.md)
 Advanced architecture with three routers connected in a ring. Introduces static routing protocols and path redundancy.
